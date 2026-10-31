@@ -35,9 +35,12 @@ probably working on a PCB, debugging something, or getting distracted by a new p
 ---
 
 <sub>some things work. some things are still being debugged. ♡</sub>
+### 🌐 my little corner of the internet
 
-### 🌷 a little side project
+🛠️ [engineering portfolio](https://everlywanus-sudo.github.io/portfolio/)  
 
-🐰 [another version of me](https://another-version-of-me.streamlit.app/) — a fun little website I built with Python & Streamlit.
+projects, hardware, robotics & things I'm building.
 
-because engineering isn't my entire personality :)
+🐰 [another version of me](https://another-version-of-me.streamlit.app/)  
+
+a fun little website I made with Python & Streamlit.
