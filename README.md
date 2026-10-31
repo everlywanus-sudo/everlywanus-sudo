@@ -17,9 +17,7 @@ probably working on a PCB, debugging something, or getting distracted by a new p
 ### things i play with
 
 <p>
-
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,arduino,git,github,vscode&theme=light" />
-
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,arduino,git,github,vscode,pycharm&theme=light" />
 </p>
 
 `KiCad` · `SolidWorks` · `Streamlit` · `Ollama`
