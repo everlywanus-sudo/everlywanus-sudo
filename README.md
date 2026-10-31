@@ -32,9 +32,6 @@ probably working on a PCB, debugging something, or getting distracted by a new p
 
 💻 an AI companion i built over the summer
 
----
-
-<sub>some things work. some things are still being debugged. ♡</sub>
 ### 🌐 my little corner of the internet
 
 🛠️ [engineering portfolio](https://everlywanus-sudo.github.io/portfolio/)  
@@ -44,3 +41,7 @@ projects, hardware, robotics & things I'm building.
 🐰 [another version of me](https://another-version-of-me.streamlit.app/)  
 
 a fun little website I made with Python & Streamlit.
+
+---
+
+<sub>some things work. some things are still being debugged. ♡</sub>
