@@ -14,6 +14,12 @@ probably working on a PCB, debugging something, or getting distracted by a new p
 
 - 🐇 powered by curiosity (and occasional confusion)
 
+### 🌷 a little side project
+
+🐰 [another version of me](https://another-version-of-me.streamlit.app/) — a fun little website I built with Python & Streamlit.
+
+because engineering isn't my entire personality :)
+
 ### things i play with
 
 <p>
